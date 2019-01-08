@@ -1,0 +1,1444 @@
+     [ 
+       {
+        "name": "Mexico",
+        "code": "MX",
+        "path": "252-mexico.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "United States",
+        "code": "US",
+        "path": "266-united-states.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR",
+        "path": "156-costa-rica.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Jamaica",
+        "code": "JM",
+        "path": "037-jamaica.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN",
+        "path": "024-honduras.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV",
+        "path": "015-el-salvador.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Panama",
+        "code": "PA",
+        "path": "106-panama.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "path": "243-canada.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "path": "181-trinidad-and-tobago.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Curacao",
+        "code": "CUR",
+        "path": "116-curacao.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Haiti",
+        "code": "HT",
+        "path": "185-haiti.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "path": "075-antigua-and-barbuda.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI",
+        "path": "007-nicaragua.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "path": "033-saint-kitts-and-nevis.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT",
+        "path": "098-guatemala.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO",
+        "path": "047-dominican-republic.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Suriname",
+        "code": "SR",
+        "path": "076-suriname.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Barbados",
+        "code": "BB",
+        "path": "084-barbados.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Belize",
+        "code": "BZ",
+        "path": "078-belize.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Saint Lucia",
+        "code": "LC",
+        "path": "172-st-lucia.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Grenada",
+        "code": "GD",
+        "path": "210-grenada.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Saint Vicent and Grenadines",
+        "code": "GD2",
+        "path": "241-st-vincent-and-the-grenadines.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR",
+        "path": "028-puerto-rico.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU",
+        "path": "153-cuba.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Dominica",
+        "code": "DM",
+        "path": "186-dominica.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Guyana",
+        "code": "GY",
+        "path": "264-guyana.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Bermuda",
+        "code": "BM",
+        "path": "081-bermuda.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Aruba",
+        "code": "AW",
+        "path": "042-aruba.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Virgin Islands",
+        "code": "AW2",
+        "path": "217-virgin-islands.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Montserrat",
+        "code": "MS",
+        "path": "043-montserrat.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Cayman Islands",
+        "code": "KY",
+        "path": "051-cayman-islands.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "British Virgin Islands",
+        "code": "AW3",
+        "path": "114-british-virgin-islands.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Anguilla",
+        "code": "AI",
+        "path": "025-anguilla.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Bahamas",
+        "code": "BS",
+        "path": "120-bahamas.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "path": "223-turks-and-caicos.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR",
+        "path": "255-brazil.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY",
+        "path": "088-uruguay.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO",
+        "path": "177-colombia.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR",
+        "path": "198-argentina.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Chile",
+        "code": "CL",
+        "path": "131-chile.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Peru",
+        "code": "PE",
+        "path": "188-peru.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE",
+        "path": "139-venezuela.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY",
+        "path": "041-paraguay.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO",
+        "path": "150-bolivia.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC",
+        "path": "104-ecuador.png",
+        "continente":"America",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Iran",
+        "code": "IR",
+        "path": "136-iran.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "path": "234-australia.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Japan",
+        "code": "JP",
+        "path": "063-japan.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR",
+        "path": "094-south-korea.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "path": "133-saudi-arabia.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Syria",
+        "code": "SY",
+        "path": "022-syria.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "China",
+        "code": "CN",
+        "path": "034-china.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "path": "151-united-arab-emirates.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB",
+        "path": "018-lebanon.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Oman",
+        "code": "OM",
+        "path": "004-oman.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ",
+        "path": "020-iraq.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "path": "152-kyrgyzstan.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "path": "190-uzbekistan.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA",
+        "path": "265-Qatar.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "India",
+        "code": "IN",
+        "path": "246-india.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS",
+        "path": "208-palestine.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN",
+        "path": "220-vietnam.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP",
+        "path": "030-north-korea.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO",
+        "path": "077-jordan.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH",
+        "path": "138-bahrain.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH",
+        "path": "192-philippines.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ",
+        "path": "196-tajikistan.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH",
+        "path": "238-thailand.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM",
+        "path": "229-turkmenistan.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE",
+        "path": "232-yemen.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Myanmar",
+        "code": "MM",
+        "path": "058-myanmar.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK",
+        "path": "183-hong-kong.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF",
+        "path": "111-afghanistan.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV",
+        "path": "225-maldives.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW",
+        "path": "107-kuwait.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID",
+        "path": "209-indonesia.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP",
+        "path": "016-nepal.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG",
+        "path": "230-singapore.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Malasya",
+        "code": "MY",
+        "path": "118-malasya.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH",
+        "path": "159-cambodia.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Laos",
+        "code": "LA",
+        "path": "112-laos.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Macao",
+        "code": "MO",
+        "path": "167-macao.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN",
+        "path": "258-mongolia.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Timor-Leste",
+        "code": "TL",
+        "path": "140-east-timor.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Guam",
+        "code": "GU",
+        "path": "207-guam.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD",
+        "path": "147-bangladesh.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Brunei Darussalam",
+        "code": "BN",
+        "path": "119-brunei.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK",
+        "path": "100-pakistan.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK",
+        "path": "127-sri-lanka.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT",
+        "path": "040-bhutan.png",
+        "continente":"Asia",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE",
+        "path": "165-belgium.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "France",
+        "code": "FR",
+        "path": "195-france.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR",
+        "path": "164-croatia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "England",
+        "code": "EN",
+        "path": "216-england.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT",
+        "path": "224-portugal.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH",
+        "path": "205-switzerland.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Spain",
+        "code": "ES",
+        "path": "128-spain.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK",
+        "path": "174-denmark.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "path": "162-germany.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL",
+        "path": "237-netherlands.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE",
+        "path": "184-sweden.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Wales",
+        "code": "WA",
+        "path": "014-wales.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Italy",
+        "code": "IT",
+        "path": "013-italy.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Poland",
+        "code": "PL",
+        "path": "211-poland.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Austria",
+        "code": "AT",
+        "path": "003-austria.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Romania",
+        "code": "RO",
+        "path": "109-romania.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA",
+        "path": "145-ukraine.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK",
+        "path": "091-slovakia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "path": "132-bosnia-and-herzegovina.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE",
+        "path": "179-ireland.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Serbia",
+        "code": "CS",
+        "path": "071-serbia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS",
+        "path": "080-iceland.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR",
+        "path": "218-turkey.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Montenegro",
+        "code": "CS2",
+        "path": "239-montenegro.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Scotland",
+        "code": "SC2",
+        "path": "055-scotland.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Russian Federation",
+        "code": "RU",
+        "path": "248-russia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Greece",
+        "code": "GR",
+        "path": "170-greece.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG",
+        "path": "168-bulgaria.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ",
+        "path": "149-czech-republic.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Norway",
+        "code": "NO",
+        "path": "143-norway.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU",
+        "path": "115-hungary.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Finland",
+        "code": "FI",
+        "path": "125-finland.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Albania",
+        "code": "AL",
+        "path": "099-albania.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI",
+        "path": "010-slovenia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Macedonia,FYR",
+        "code": "MK",
+        "path": "236-republic-of-macedonia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY",
+        "path": "135-belarus.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU",
+        "path": "035-luxembourg.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY",
+        "path": "002-cyprus.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Israel",
+        "code": "IL",
+        "path": "155-israel.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE",
+        "path": "256-georgia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Faroe Islands",
+        "code": "FO",
+        "path": "122-faroe-islands.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE",
+        "path": "008-estonia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM",
+        "path": "108-armenia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "path": "141-azerbaijan.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "path": "074-kazakhstan.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT",
+        "path": "064-lithuania.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV",
+        "path": "044-latvia.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Andorra",
+        "code": "AD",
+        "path": "045-andorra.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Kosovo",
+        "code": "AD",
+        "path": "052-kosovo.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD",
+        "path": "212-moldova.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI",
+        "path": "134-liechtenstein.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Malta",
+        "code": "MT",
+        "path": "194-malta.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Gibraltar",
+        "code": "GI",
+        "path": "213-gibraltar.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM",
+        "path": "097-san-marino.png",
+        "continente":"Europe",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN",
+        "path": "049-tunisia.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Senegal",
+        "code": "SN",
+        "path": "227-senegal.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NG",
+        "path": "086-nigeria.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Congo",
+        "code": "CG",
+        "path": "157-republic-of-the-congo.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Congo, The Democratic Republic of the",
+        "code": "CD",
+        "path": "249-democratic-republic-of-congo.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA",
+        "path": "166-morocco.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CM",
+        "path": "105-cameroon.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Ghana",
+        "code": "GH",
+        "path": "053-ghana.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BF",
+        "path": "090-burkina-faso.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG",
+        "path": "158-egypt.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Cote D'Ivoire",
+        "code": "CI",
+        "path": "161-ivory-coast.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Guinea",
+        "code": "GN",
+        "path": "110-guinea.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Mali",
+        "code": "ML",
+        "path": "173-mali.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ",
+        "path": "144-algeria.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Cape Verde",
+        "code": "CV",
+        "path": "038-cape-verde.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA",
+        "path": "200-south-africa.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZM",
+        "path": "032-zambia.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Uganda",
+        "code": "UG",
+        "path": "009-uganda.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Gabon",
+        "code": "GA",
+        "path": "059-gabon.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Benin",
+        "code": "BJ",
+        "path": "060-benin.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MG",
+        "path": "242-madagascar.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR",
+        "path": "050-mauritania.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Libya",
+        "code": "LY",
+        "path": "231-libya.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Kenya",
+        "code": "KE",
+        "path": "067-kenya.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Niger",
+        "code": "NE",
+        "path": "222-niger.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Namibia",
+        "code": "NA",
+        "path": "062-namibia.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "path": "011-zimbabwe.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Central African Republic",
+        "code": "CF",
+        "path": "036-central-african-republic.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SL",
+        "path": "092-sierra-leone.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "code": "GW",
+        "path": "056-guinea-bissau.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MZ",
+        "path": "096-mozambique.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Togo",
+        "code": "TG",
+        "path": "073-togo.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Malawi",
+        "code": "MW",
+        "path": "214-malawi.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Angola",
+        "code": "AO",
+        "path": "117-angola.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD",
+        "path": "199-sudan.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZ",
+        "path": "006-tanzania.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RW",
+        "path": "206-rwanda.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Swaziland",
+        "code": "SZ",
+        "path": "154-swaziland.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Botswana",
+        "code": "BW",
+        "path": "126-botswana.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Burundi",
+        "code": "BI",
+        "path": "057-burundi.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+        "path": "189-equatorial-guinea.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM",
+        "path": "029-comoros.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Lesotho",
+        "code": "LS",
+        "path": "176-lesotho.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ET",
+        "path": "005-ethiopia.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Liberia",
+        "code": "LR",
+        "path": "169-liberia.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Mauritius",
+        "code": "MU",
+        "path": "001-mauritius.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Gambia",
+        "code": "GM",
+        "path": "146-gambia.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Chad",
+        "code": "TD",
+        "path": "066-chad.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Sao Tome and Principe",
+        "code": "ST",
+        "path": "012-sao-tome-and-prince.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Seychelles",
+        "code": "SC",
+        "path": "253-seychelles.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ",
+        "path": "068-djibouti.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Eritrea",
+        "code": "ER",
+        "path": "065-eritrea.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO",
+        "path": "083-somalia.png",
+        "continente":"Africa",
+        "estado":"mainTeamBody"
+      },    
+      {
+        "name": "New Zealand",
+        "code": "NZ",
+        "path": "121-new-zealand.png",
+        "continente":"Oceania",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB",
+        "path": "085-solomon-islands.png",
+        "continente":"Oceania",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU",
+        "path": "187-vanuatu.png",
+        "continente":"Oceania",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG",
+        "path": "163-papua-new-guinea.png",
+        "continente":"Oceania",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ",
+        "path": "137-fiji.png",
+        "continente":"Oceania",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK",
+        "path": "021-cook-islands.png",
+        "continente":"Oceania",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS",
+        "path": "027-american-samoa.png",
+        "continente":"Oceania",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS",
+        "path": "251-samoa.png",
+        "continente":"Oceania",
+        "estado":"mainTeamBody"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO",
+        "path": "191-tonga.png",
+        "continente":"Oceania",
+        "estado":"mainTeamBody"
+      } 
+  ]
