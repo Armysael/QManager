@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <title>Quiniela Manager</title>
+      <meta name="description" content="The HTML5 Herald">
+      <meta name="author" content="SitePoint">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <link rel="stylesheet" href="../css/groupTeams.css">
+      <link rel="stylesheet" href="../../node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    </head>
+    <body>
+      <div id="contenedor">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <a class="navbar-brand" href="#">QuManager</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse " id="navbarSupportedContent">
+            <ul class="barraprincipal navbar-nav mr-auto">
+              <li class="nav-item active" id="armarGrupos">
+                <a class="nav-link" href="#">Armar Grupos<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item" id="mostrarTabla">
+                <a class="nav-link" href="#">Lista Jugadores</a>
+              </li>
+              <li class="nav-item d-none">
+                <a class="nav-link" href="#" id="probarJson">Probar Local</a>
+              </li>
+              <li class="nav-item" id="createAccountCallItem">
+                <a class="nav-link" href="#">Crear Cuenta</a>
+              </li>
+              <li class="nav-item" id="loginCallItem">
+                <a class="nav-link" href="#">Log In</a>
+              </li>    
+               <li class="nav-item d-none" id="logOutItem">
+                <a class="nav-link" href="#" >Log out</a>
+              </li> 
+              <li class="nav-item d-none" id="loadURL">
+                <a class="nav-link" href="#">API</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+        <main id="mainContainer">
+          <div id="workArea" class="row justify-content-around align-items-start">
+            
+          </div>
+        </div>
+      </main>
+    </div>
+    
+    
+    <!-- Insert this line above script imports  -->
+    <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+    <!-- normal script imports etc  -->
+    <script src="../scripts/jquery-3.3.1.js"></script>
+    <script src="../scripts/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+    <!--Esta fue la unica manera de  hacer funcionar los modals tuve que sacarlo de package.json -->
+    <script src="../scripts/popper.js"></script>
+    <script src="../scripts/bootstrap4/js/bootstrap.js"></script>
+
+
+    <!-- Insert this line after script imports -->
+    <script>if (window.module) module = window.module;</script>
+    <script>
+
+    require('../js/tableTest.js');
+
+    const { showObject,testOnLoad } = require('../js/mainWindowEventManager.js')
+
+   
+    const { ipcRenderer } = require('electron')
+
+    // For #1
+    ipcRenderer.on('call-foo', (event, arg) => {
+
+    showObject(arg)
+    })
+
+     ipcRenderer.on('loadFlags', (event, arg) => {
+      
+    testOnLoad(arg)
+    })
+    </script>
+  </body>
+</html>
