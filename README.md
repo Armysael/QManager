@@ -1,0 +1,2 @@
+# QManager
+Gestion de Quinielas
